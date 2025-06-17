@@ -6,6 +6,10 @@ Saya juga memiliki kemampuan menggunakan **CodeIgniter 4 (CI4)** dan memahami ko
 
 ---
 
+### Akun
+* Username : admin
+* password : admin
+
 
 ###  Setup Database
 
