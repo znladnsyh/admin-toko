@@ -33,13 +33,13 @@ $db = "aplikasi-kasir";
 * Letakkan folder project di **htdocs** (jika menggunakan XAMPP):
 
 ```
-C:/xampp/htdocs/aplikasi-kasir
+C:/xampp/htdocs/admin-toko
 ```
 
 * Akses via browser:
 
 ```
-http://localhost/aplikasi-kasir
+http://localhost/admin-toko
 ```
 
 ---
@@ -65,7 +65,6 @@ http://localhost/aplikasi-kasir
 ### 4️⃣ Data Laporan
 
 * Melihat laporan penjualan yang telah dilakukan.
-* Filter berdasarkan periode waktu.
 
 ### 5️⃣ User (Member Pelanggan)
 
@@ -77,27 +76,12 @@ http://localhost/aplikasi-kasir
 
 ---
 
-## 📄 Struktur Folder
-
-```
-/config       → Konfigurasi database
-/pages        → Halaman utama aplikasi
-/kategori     → Modul kategori produk
-/produk       → Modul data produk
-/transaksi    → Modul transaksi kasir
-/laporan      → Modul laporan penjualan
-/member       → Modul data pelanggan member
-/pengaturan   → Modul informasi toko
-```
-
----
-
 ## 👨‍💻 Teknologi yang Digunakan
 
 * PHP Native
 * MySQL
 * HTML, CSS (Bootstrap 5)
-* JavaScript (Vanilla JS)
+* JavaScript 
 
 ---
 
